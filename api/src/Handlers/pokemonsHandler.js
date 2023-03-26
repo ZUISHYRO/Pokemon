@@ -1,5 +1,5 @@
-const createPokemon = require("../Controllers.js/createPokemon");
-const { getAllPokemons } = require("../Controllers.js/getAllPokemons");
+const createPokemon = require("../Controllers/createPokemon");
+const { getAllPokemons } = require("../Controllers/getAllPokemons");
 
 //__________FUNCTION TO BRING ALL THE POKEMONS AND BY QUERY (GET: /pokemons Y GET : /pokemons/name?="...")__________
 

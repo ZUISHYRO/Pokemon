@@ -1,4 +1,4 @@
-const getAllTypes = require("../Controllers.js/getTypes");
+const getAllTypes = require("../Controllers/getTypes");
 
 //__________FUNCTION TO GET ALL TYPES (GET: /types)_________________________
 const getTypes = async (req, res) => {
